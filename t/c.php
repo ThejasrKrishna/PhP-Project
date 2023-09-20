@@ -1,6 +1,6 @@
 <?php
-	$Email = $_POST['Task Name'];
-	$Name = $_POST['Task Description'];
+	$Email = $_POST['Email'];
+	$Name = $_POST['Name'];
 	
 	$conn =new mysqli('localhost','root','','data');
 	if($conn->connect_error){
