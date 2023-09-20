@@ -17,4 +17,3 @@
 ?>
 	
 
-<input type="button" class="delete-button" value="Delete"> 
